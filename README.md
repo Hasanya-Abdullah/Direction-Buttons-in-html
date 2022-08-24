@@ -1,4 +1,4 @@
-# Direction-Buttons-in-html-saving and retrieving
+# Direction-Buttons-in-html-saving and retrieving records
 # SetUp:
 1-Unzip the (DirectionBtns) zip file.
 
